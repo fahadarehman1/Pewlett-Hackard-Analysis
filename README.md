@@ -16,7 +16,7 @@
 
    ​	The data results are based on the filter of employees born between Jan-1 1952 to Dec-31 1955 which is four years. Based on that filter we found out that following no. of employees are eligible for retirement benefits:
 
-   ​												![count_by_title](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\Pewlett-Hackard-Analysis\count_by_title.PNG)
+   ​												![count_by_title](/resources/count_by_title.PNG)
 
    ​	As we can see from the above picture, we are going to fill 60K senior positions only. That's a big number to fill and the total no. is 90K employees. The total no. of employees at Pewlett-Hackard is around 300K and losing 90K would be the 30% of the workforce. 
 
